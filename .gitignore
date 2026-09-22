@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+# Local runtime state and generated outputs remain local.
+database/*.sqlite3
+data/raw/
+logs/
+reports/
+*.sqlite3
+*.db
+*.bak
+# Local credentials and private key material.
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/

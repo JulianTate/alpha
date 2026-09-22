@@ -1,0 +1,2 @@
+# First version intentionally uses Python standard library only.
+# Optional future adapters may add requests/pandas/yfinance.
